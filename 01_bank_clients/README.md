@@ -16,7 +16,7 @@
 - debt — наличие задолженности
 - total_income — доход в месяц
 - purpose — цель кредита
-## Инструменты:
+## Используемые библиотеки:
 - pandas
 - pymystem3
 - collections
